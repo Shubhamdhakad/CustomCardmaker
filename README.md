@@ -63,22 +63,6 @@ This project demonstrates a custom card component built with React and GrapesJS.
 2. The complete HTML file (with CSS) will download automatically
 3. Open the downloaded file in any browser
 
-## Project Structure
-
-grapesjs-react-card-component/
-├── public/
-│ └── index.html
-├── src/
-│ ├── components/
-│ │ ├── GrapesEditor.jsx # Main editor component
-│ │ └── CustomCardComponent.js # Custom card plugin
-│ ├── App.jsx # Root component
-│ ├── App.css # Main styles
-│ ├── main.jsx # Entry point
-│ └── index.css # Global styles
-├── package.json
-├── vite.config.js
-└── README.md
 
 
 ## Technologies Used
